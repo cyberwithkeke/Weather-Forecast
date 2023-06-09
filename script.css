@@ -35,7 +35,15 @@ h2 {
     border: 1px solid #dadde1;
     border-radius: 5px;
     padding: 26px;
-    max-width: 600px;
+    
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    max-width: 540px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .box {
@@ -64,6 +72,6 @@ h2 {
     float: right;
     width: 200px;
 }
-.author { 
-    text-align: center;
+.small { 
+    text-align: left;
 }
