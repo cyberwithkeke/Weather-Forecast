@@ -1,0 +1,69 @@
+h1 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+    font-weight: bolder;
+    color: #799ee9;
+}
+
+h2 {
+    font-size: 16px;
+    line-height: 18px;
+    padding: 0 0 15px;
+    font-weight: 400;
+}
+
+.temp {
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 1;
+    color: rgb(131, 131, 131);
+}
+
+.units {
+    position: relative;
+    top: -14px;
+    opacity: 0.7;
+    font-size: 22px;
+}
+
+.specifications {
+    padding: 0px;
+    margin: 0px;
+}
+
+.content {
+    border: 1px solid #dadde1;
+    border-radius: 5px;
+    padding: 26px;
+    max-width: 600px;
+}
+
+.box {
+    background-color: rgb(229, 237, 252);
+}
+
+.box:hover {
+    cursor: pointer;
+    transition: all 20ms ease-in-out;
+    background-color: cornflowerblue;
+}
+
+.card {
+    border: 1px solid grey;
+}
+
+.searchbtn {
+    margin-bottom: 20px;
+}
+
+.data {
+    opacity: 0.7;
+    left: 280px;
+    position: absolute;
+    margin-top: -40px;
+    float: right;
+    width: 200px;
+}
+.author { 
+    text-align: center;
+}
